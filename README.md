@@ -145,6 +145,8 @@ The developer is not responsible for any misuse of this tool. Use it ethically a
 
 ---
 
+
+
 🔗 Copyable Commands
 
 For Termux
@@ -174,6 +176,9 @@ python MrPYTHON.py
 
 
 ---
+
+
+
 
 🌟 Support Us
 
