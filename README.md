@@ -45,35 +45,54 @@ rich
 
 📥 Installation Guide
 
+🔗 Copyable Commands
+
 For Termux
 
+```
 pkg update && pkg upgrade
+
 pkg install python
-pip install sublist3r requests rich
+
+pip install -r requirements.txt
+
 git clone https://github.com/MrPYTHONI/AnonymousSubHunter.git
+
 cd AnonymousSubHunter
+
+python3 MrPYTHON.py
+
+
 
 For Kali Linux
 
+```bash
 sudo apt update && sudo apt upgrade
+
 sudo apt install python3 python3-pip
-pip3 install sublist3r requests rich
+
+pip3 install -r requirements.txt
+
 git clone https://github.com/MrPYTHONI/AnonymousSubHunter.git
+
 cd AnonymousSubHunter
+
+python3 MrPYTHON.py
 
 For Windows
 
-1. Install Python from the official website.
+```bash
+pip install -r requirements.txt
 
-
-2. Open Command Prompt and run:
-
-
-
-pip install sublist3r requests rich
 git clone https://github.com/MrPYTHONI/AnonymousSubHunter.git
+
 cd AnonymousSubHunter
 
+python MrPYTHON.py
+
+
+
+```
 
 ---
 
@@ -140,57 +159,6 @@ The developer is not responsible for any misuse of this tool. Use it ethically a
 ⚡ Telegram: @FPI_711
 
 🌍 Website: https://mrpython3.carrd.co/
-
-
-
----
-
-
-
-🔗 Copyable Commands
-
-For Termux
-
-```
-pkg update && pkg upgrade
-
-pkg install python
-
-pip install -r requirements.txt
-
-git clone https://github.com/MrPYTHONI/AnonymousSubHunter.git
-
-cd AnonymousSubHunter
-
-python3 MrPYTHON.py
-
-
-
-For Kali Linux
-
-```bash
-sudo apt update && sudo apt upgrade
-
-sudo apt install python3 python3-pip
-
-pip3 install -r requirements.txt
-
-git clone https://github.com/MrPYTHONI/AnonymousSubHunter.git
-
-cd AnonymousSubHunter
-
-python3 MrPYTHON.py
-
-For Windows
-
-```bash
-pip install -r requirements.txt
-
-git clone https://github.com/MrPYTHONI/AnonymousSubHunter.git
-
-cd AnonymousSubHunter
-
-python MrPYTHON.py
 
 
 ---
