@@ -151,27 +151,45 @@ The developer is not responsible for any misuse of this tool. Use it ethically a
 
 For Termux
 
+```
 pkg update && pkg upgrade
+
 pkg install python
-pip install sublist3r requests rich
+
+pip install -r requirements.txt
+
 git clone https://github.com/MrPYTHONI/AnonymousSubHunter.git
+
 cd AnonymousSubHunter
+
 python3 MrPYTHON.py
+
+
 
 For Kali Linux
 
+```bash
 sudo apt update && sudo apt upgrade
+
 sudo apt install python3 python3-pip
-pip3 install sublist3r requests rich
+
+pip3 install -r requirements.txt
+
 git clone https://github.com/MrPYTHONI/AnonymousSubHunter.git
+
 cd AnonymousSubHunter
+
 python3 MrPYTHON.py
 
 For Windows
 
-pip install sublist3r requests rich
+```bash
+pip install -r requirements.txt
+
 git clone https://github.com/MrPYTHONI/AnonymousSubHunter.git
+
 cd AnonymousSubHunter
+
 python MrPYTHON.py
 
 
